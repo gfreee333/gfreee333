@@ -4,9 +4,7 @@
 **gfreee333/gfreee333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=gfreee333&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=gfreee333&show_icons=true&theme=radical&hide_border=true&hide_title=true&hide=stars,prs,issues,contribs" style="max-width: 100%; border-radius: 50%;" alt="Статистика" />
- 
+ <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=gfreee333&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
