@@ -1,4 +1,6 @@
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0; padding: 20px; background: #0d1117; border-radius: 8px; border: 1px solid #30363d;">
+<!DOCTYPE html>
+<html>
+   <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0; padding: 20px; background: #0d1117; border-radius: 8px; border: 1px solid #30363d;">
 <div style="flex: 0 0 100%; border-bottom: 2px solid #4493f8; padding-bottom: 10px; margin-bottom: 10px;"></div>
 <p align="center" style="margin: 20px 0; padding: 10px; 
     background: linear-gradient(135deg, rgba(68, 147, 248, 0.1) 0%, rgba(13, 17, 23, 0.3) 100%);
@@ -160,3 +162,4 @@
 </a>
 </div>
 </div>
+</html>
