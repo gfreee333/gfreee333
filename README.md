@@ -92,7 +92,7 @@
   <!-- ГРУППА 5: Тестирование и утилиты -->
   <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 8px 12px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
     <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/junit.png" height="40" alt="JUnit" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/mockito.png" height="40" alt="Mockito" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/mocikto.png" height="40" alt="Mockito" />
     <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Testconteiner-dark.svg" height="40" alt="Testcontainers" />
     <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/lombok.png" height="40" alt="Lombok" />
     <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Rest-Dark.svg" height="40" alt="REST" />
