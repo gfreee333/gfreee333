@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/header_panda.jpg" width="100%" style="border-radius: 12px;" alt="Panda banner" />
+  <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/header_phone.svg" width="100%" />
 </div>
 
 <!-- ============================================================ -->
@@ -12,6 +12,10 @@
 
 <div align="center" style="margin: 20px 0; padding: 20px; background: #0d1117; border-radius: 15px; border: 1px solid #30363d;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=500&color=4493F8&center=true&vCenter=true&width=600&lines=Добро+пожаловать+на+мой+профиль;Чухманов Иван;Java-разработчик;" alt="Typing SVG" style="max-width: 100%;" />
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/back_phone.svg" />
 </div>
 
 <!-- ============================================================ -->
@@ -36,14 +40,8 @@
 <!-- БЛОК: МОЯ СПЕЦИАЛИЗАЦИЯ                                       -->
 <!-- ============================================================ -->
 
-<div style="margin: 20px 0; padding: 20px; background: #0d1117; border-radius: 12px; border: 1px solid #30363d;">
-
-### 🕮 Моя специализация
-
-- 🎯 **Специализация:** Backend-разработка на языке Java
-- 🌱 **Сейчас изучаю:** Тонкости и особенности работы с Kubernetes
-- 🎓 **Образование:** СНИУ им. Королева (Прикладная математика и Физика)
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/specilizer.svg" />
 </div>
 
 <!-- ============================================================ -->
