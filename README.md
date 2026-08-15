@@ -59,6 +59,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/stack.png"/>
 </div>
+<br><br>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -191,10 +192,11 @@
     </td>
   </tr>
 </table>
-
+<br><br>
 <div align="center">
     <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/contact.png" />
 </div>
+<br><br>
 <br>
 <div align="center">
   <a href="https://mail.yandex.ru/compose?to=chuhmanovivan2002@yandex.ru" target="_blank">
@@ -214,4 +216,3 @@
   </a>
   <br>
 </div>
-
