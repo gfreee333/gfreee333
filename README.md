@@ -196,8 +196,6 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/contact.png" />
 </div>
-<br><br>
-<br>
 <div align="center">
   <a href="https://mail.yandex.ru/compose?to=chuhmanovivan2002@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/Yandex-FF3F00?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex" />
@@ -214,5 +212,4 @@
   <a href="https://hh.ru/resume/ваш_id_резюме" target="_blank">
     <img src="https://img.shields.io/badge/hh.ru-DE2D2D?style=for-the-badge&logoColor=white" alt="hh.ru" />
   </a>
-  <br>
 </div>
