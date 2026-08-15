@@ -19,7 +19,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/back_phone.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/back_phone1.svg" />
 </div>
 
 <!-- ============================================================ -->
@@ -47,7 +47,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/back_phone.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/back_phone2.svg" />
 </div>
 
 <!-- ============================================================ -->
@@ -62,7 +62,7 @@
 <!-- БЛОК: РАЗДЕЛИТЕЛЬ ТРЕТИЙ                                     -->
 <!-- ============================================================ -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/back_phone.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/back_phone3.svg" />
 </div>
 
 
