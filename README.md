@@ -6,55 +6,6 @@
   <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/header_panda.jpg" width="100%" style="border-radius: 12px;" alt="Panda banner" />
 </div>
 
-
-<!----> ТЕСТ КАК СРАБОТАЕТ ЭТОТ МОМЕНТ
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220">
-  <defs>
-    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
-    </linearGradient>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
-      .title { font-family: 'Inter', sans-serif; font-weight: 700; font-size: 22px; fill: #4493f8; }
-      .text { font-family: 'Inter', sans-serif; font-weight: 400; font-size: 15px; fill: #c9d1d9; }
-      .highlight { font-weight: 700; }
-      .item { rx: 8px; }
-    </style>
-  </defs>
-  
-  <rect width="800" height="220" rx="15" fill="url(#bg3)" stroke="#30363d" stroke-width="1"/>
-  
-  <!-- Заголовок -->
-  <text x="30" y="40" class="title">🕮 Моя специализация</text>
-  <line x1="30" y1="50" x2="770" y2="50" stroke="#4493f8" stroke-width="2"/>
-  
-  <!-- Пункт 1 -->
-  <rect x="30" y="70" width="740" height="35" rx="8" fill="#161b22" stroke="#4493f8" stroke-width="1" stroke-dasharray="0"/>
-  <line x1="30" y1="70" x2="30" y2="105" stroke="#4493f8" stroke-width="4"/>
-  <text x="50" y="93" class="text">
-    <tspan class="highlight" style="fill:#4493f8;">Специализация:</tspan>
-    <tspan> Backend-разработка на языке Java</tspan>
-  </text>
-  
-  <!-- Пункт 2 -->
-  <rect x="30" y="115" width="740" height="35" rx="8" fill="#161b22"/>
-  <line x1="30" y1="115" x2="30" y2="150" stroke="#f0883e" stroke-width="4"/>
-  <text x="50" y="138" class="text">
-    <tspan class="highlight" style="fill:#f0883e;">Сейчас изучаю:</tspan>
-    <tspan> Тонкости и особенности работы с Kubernetes</tspan>
-  </text>
-  
-  <!-- Пункт 3 -->
-  <rect x="30" y="160" width="740" height="35" rx="8" fill="#161b22"/>
-  <line x1="30" y1="160" x2="30" y2="195" stroke="#da3633" stroke-width="4"/>
-  <text x="50" y="183" class="text">
-    <tspan class="highlight" style="fill:#da3633;">Образование:</tspan>
-    <tspan> СНИУ им. Королева (Прикладная математика и Физика)</tspan>
-  </text>
-</svg>
-<!----> ТЕСТ КАК СРАБОТАЕТ ЭТОТ МОМЕНТ
-
 <!-- ============================================================ -->
 <!-- АНИМИРОВАННЫЙ ТЕКСТ                                           -->
 <!-- ============================================================ -->
