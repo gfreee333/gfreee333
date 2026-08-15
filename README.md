@@ -39,7 +39,9 @@
 <!-- ============================================================ -->
 <!-- БЛОК: МОЯ СПЕЦИАЛИЗАЦИЯ                                       -->
 <!-- ============================================================ -->
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/image/white-line.png" />
+</div>
 <div align="center">
     <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/specilizer.svg" />
 </div>
@@ -55,9 +57,8 @@
 <!-- ============================================================ -->
 <!-- БЛОК: ТЕХНИЧЕСКИЙ STACK                                       -->
 <!-- ============================================================ -->
-## ⚒ Технический Stack
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/image/stack.png" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/image/estack.png" />
 </div>
 <table align="center">
   <tr>
