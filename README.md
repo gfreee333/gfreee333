@@ -11,7 +11,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/contact.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/about-me.png" />
 </div>
 
 <table>
@@ -56,7 +56,9 @@
 <!-- БЛОК: ТЕХНИЧЕСКИЙ STACK                                       -->
 <!-- ============================================================ -->
 ## ⚒ Технический Stack
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/image/stack.png" />
+</div>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -191,7 +193,7 @@
 </table>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/contact.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/contact.png" />
 </div>
 
 <div align="center">
