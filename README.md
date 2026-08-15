@@ -10,7 +10,9 @@
 <!-- БЛОК: О СЕБЕ                                                  -->
 <!-- ============================================================ -->
 
-## 🐼 О себе!
+<div align="center">
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/about-me.png" />
+</div>
 
 <table>
   <tr>
@@ -37,24 +39,27 @@
 <!-- ============================================================ -->
 <!-- БЛОК: МОЯ СПЕЦИАЛИЗАЦИЯ                                       -->
 <!-- ============================================================ -->
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/specilizer.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/white-line.png"/>
 </div>
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/specilizer.svg"/>
+</div>
 <!-- ============================================================ -->
 <!-- БЛОК: РАЗДЕЛИТЕЛЬ 2                                   -->
 <!-- ============================================================ -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Phone_2.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Phone_2.svg"/>
 </div>
 
 
 <!-- ============================================================ -->
 <!-- БЛОК: ТЕХНИЧЕСКИЙ STACK                                       -->
 <!-- ============================================================ -->
-## ⚒ Технический Stack
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/stack.png"/>
+</div>
+<br></br>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -187,11 +192,12 @@
     </td>
   </tr>
 </table>
-
+<br></br>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/contact.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/contact.png" />
 </div>
----
+<br><br>
+<br>
 <div align="center">
   <a href="https://mail.yandex.ru/compose?to=chuhmanovivan2002@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/Yandex-FF3F00?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex" />
@@ -208,5 +214,5 @@
   <a href="https://hh.ru/resume/ваш_id_резюме" target="_blank">
     <img src="https://img.shields.io/badge/hh.ru-DE2D2D?style=for-the-badge&logoColor=white" alt="hh.ru" />
   </a>
+  <br>
 </div>
-
