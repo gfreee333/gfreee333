@@ -40,17 +40,16 @@
 <!-- БЛОК: МОЯ СПЕЦИАЛИЗАЦИЯ                                       -->
 <!-- ============================================================ -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/image/white-line.png" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/image/white-line.png"/>
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/specilizer.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/specilizer.svg"/>
 </div>
-
 <!-- ============================================================ -->
 <!-- БЛОК: РАЗДЕЛИТЕЛЬ 2                                   -->
 <!-- ============================================================ -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Phone_2.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Phone_2.svg"/>
 </div>
 
 
@@ -58,7 +57,7 @@
 <!-- БЛОК: ТЕХНИЧЕСКИЙ STACK                                       -->
 <!-- ============================================================ -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/image/stack.png" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/image/stack.png"/>
 </div>
 <table align="center">
   <tr>
