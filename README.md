@@ -40,7 +40,7 @@
 <!-- БЛОК: МОЯ СПЕЦИАЛИЗАЦИЯ                                       -->
 <!-- ============================================================ -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/image/white-line.png"/>
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/white-line.png"/>
 </div>
 <div align="center">
     <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/specilizer.svg"/>
@@ -57,7 +57,7 @@
 <!-- БЛОК: ТЕХНИЧЕСКИЙ STACK                                       -->
 <!-- ============================================================ -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/image/stack.png"/>
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/stack.png"/>
 </div>
 <table align="center">
   <tr>
