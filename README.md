@@ -49,57 +49,39 @@
 <!-- ============================================================ -->
 
 ## ⚒ Технический Stack
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; padding: 15px 0;">
-
-  <!-- ГРУППА 1: Язык и IDE -->
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 8px 12px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Java-Dark.svg" height="40" alt="Java" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Idea-Dark.svg" height="40" alt="IntelliJ IDEA" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Maven-Dark.svg" height="40" alt="Maven" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Gradle-Dark.svg" height="40" alt="Gradle" />
-  </div>
-
-  <!-- ГРУППА 2: Фреймворки -->
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 8px 12px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Dark.svg" height="40" alt="Spring" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Boot-Dark.svg" height="40" alt="Spring Boot" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Data-Dark.svg" height="40" alt="Spring Data" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Cloud-Dark.svg" height="40" alt="Spring Cloud" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Hibernate-Dark.svg" height="40" alt="Hibernate" />
-  </div>
-
-  <!-- ГРУППА 3: Базы данных и очереди -->
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 8px 12px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/PostgreSQL-Dark.svg" height="40" alt="PostgreSQL" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Redis-Dark.svg" height="40" alt="Redis" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Kafka.svg" height="40" alt="Kafka" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/RabbitMQ-Dark.svg" height="40" alt="RabbitMQ" />
-  </div>
-
-  <!-- ГРУППА 4: DevOps -->
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 8px 12px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Docker.svg" height="40" alt="Docker" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Kubernetes.svg" height="40" alt="Kubernetes" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Git.svg" height="40" alt="Git" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Github-Dark.svg" height="40" alt="GitHub" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/GithubActions-Dark.svg" height="40" alt="GitHub Actions" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Jenkins-Dark.svg" height="40" alt="Jenkins" />
-  </div>
-
-  <!-- ГРУППА 5: Тестирование и утилиты -->
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 8px 12px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/junit.png" height="40" alt="JUnit" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/mocikto.png" height="40" alt="Mockito" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Testconteiner-dark.svg" height="40" alt="Testcontainers" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/lombok.png" height="40" alt="Lombok" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Rest-Dark.svg" height="40" alt="REST" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Tomcat-Dark.svg" height="40" alt="Tomcat" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/http-Dark.svg" height="40" alt="HTTP" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/ci-cd-Dark.svg" height="40" alt="CI/CD" />
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/MasStruct-Dark.svg" height="40" alt="Microservices" />
-  </div>
-
+<div>
+    <div align="center"> 
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Java-Dark.svg" height="40" alt="Java" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Idea-Dark.svg" height="40" alt="IntelliJ IDEA" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Maven-Dark.svg" height="40" alt="Maven" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Gradle-Dark.svg" height="40" alt="Gradle" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Dark.svg" height="40" alt="Spring" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Boot-Dark.svg" height="40" alt="Spring Boot" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Data-Dark.svg" height="40" alt="Spring Data" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Cloud-Dark.svg" height="40" alt="Spring Cloud" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Hibernate-Dark.svg" height="40" alt="Hibernate" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/PostgreSQL-Dark.svg" height="40" alt="PostgreSQL" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Redis-Dark.svg" height="40" alt="Redis" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Kafka.svg" height="40" alt="Kafka" />
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/RabbitMQ-Dark.svg" height="40" alt="RabbitMQ" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Git.svg" height="40" alt="Git" />
+    </div>
+    <div align="center">
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Docker.svg" height="40" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Kubernetes.svg" height="40" alt="Kubernetes" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Github-Dark.svg" height="40" alt="GitHub" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/GithubActions-Dark.svg" height="40" alt="GitHub Actions" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Jenkins-Dark.svg" height="40" alt="Jenkins" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/junit.png" height="40" alt="JUnit" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/mocikto.png" height="40" alt="Mockito" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Testconteiner-dark.svg" height="40" alt="Testcontainers" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/lombok.png" height="40" alt="Lombok" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Rest-Dark.svg" height="40" alt="REST" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Tomcat-Dark.svg" height="40" alt="Tomcat" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/http-Dark.svg" height="40" alt="HTTP" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/ci-cd-Dark.svg" height="40" alt="CI/CD" />
+        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/MasStruct-Dark.svg" height="40" alt="Microservices" />
+    </div>
 </div>
 
 <!-- ============================================================ -->
@@ -108,7 +90,7 @@
 
 ## ✉ Мои контакты
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding: 15px 0;">
+<div align="center">
 
   <a href="https://mail.yandex.ru/compose?to=chuhmanovivan2002@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/Yandex-FF3F00?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex" />
