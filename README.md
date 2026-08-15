@@ -70,40 +70,140 @@
 <!-- БЛОК: ТЕХНИЧЕСКИЙ STACK                                       -->
 <!-- ============================================================ -->
 ## ⚒ Технический Stack
-<div>
-    <div align="center"> 
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Java-Dark.svg" height="40" alt="Java" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Idea-Dark.svg" height="40" alt="IntelliJ IDEA" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Maven-Dark.svg" height="40" alt="Maven" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Gradle-Dark.svg" height="40" alt="Gradle" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Dark.svg" height="40" alt="Spring" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Boot-Dark.svg" height="40" alt="Spring Boot" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Data-Dark.svg" height="40" alt="Spring Data" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Cloud-Dark.svg" height="40" alt="Spring Cloud" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Hibernate-Dark.svg" height="40" alt="Hibernate" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/PostgreSQL-Dark.svg" height="40" alt="PostgreSQL" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Redis-Dark.svg" height="40" alt="Redis" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Kafka.svg" height="40" alt="Kafka" />
-      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/RabbitMQ-Dark.svg" height="40" alt="RabbitMQ" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Git.svg" height="40" alt="Git" />
-    </div>
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Docker.svg" height="40" alt="Docker" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Kubernetes.svg" height="40" alt="Kubernetes" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Github-Dark.svg" height="40" alt="GitHub" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/GithubActions-Dark.svg" height="40" alt="GitHub Actions" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Jenkins-Dark.svg" height="40" alt="Jenkins" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/junit.png" height="40" alt="JUnit" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/mocikto.png" height="40" alt="Mockito" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Testconteiner-dark.svg" height="40" alt="Testcontainers" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/lombok.png" height="40" alt="Lombok" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Rest-Dark.svg" height="40" alt="REST" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Tomcat-Dark.svg" height="40" alt="Tomcat" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/http-Dark.svg" height="40" alt="HTTP" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/ci-cd-Dark.svg" height="40" alt="CI/CD" />
-        <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/MasStruct-Dark.svg" height="40" alt="Microservices" />
-    </div>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Java-Dark.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Idea-Dark.svg" width="48" height="48" alt="IntelliJ IDEA" />
+      <br>IDEA
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Maven-Dark.svg" width="48" height="48" alt="Maven" />
+      <br>Maven
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Gradle-Dark.svg" width="48" height="48" alt="Gradle" />
+      <br>Gradle
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Dark.svg" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Boot-Dark.svg" width="48" height="48" alt="Spring Boot" />
+      <br>Boot
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Data-Dark.svg" width="48" height="48" alt="Spring Data" />
+      <br>Data
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Spring-Cloud-Dark.svg" width="48" height="48" alt="Spring Cloud" />
+      <br>Cloud
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Hibernate-Dark.svg" width="48" height="48" alt="Hibernate" />
+      <br>Hibernate
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Redis-Dark.svg" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Kafka.svg" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/RabbitMQ-Dark.svg" width="48" height="48" alt="RabbitMQ" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Docker.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Kubernetes.svg" width="48" height="48" alt="Kubernetes" />
+      <br>K8s
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Git.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Github-Dark.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/GithubActions-Dark.svg" width="48" height="48" alt="GitHub Actions" />
+      <br>Actions
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Jenkins-Dark.svg" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/junit.png" width="48" height="48" alt="JUnit" />
+      <br>JUnit
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/mocikto.png" width="48" height="48" alt="Mockito" />
+      <br>Mockito
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Testconteiner-dark.svg" width="48" height="48" alt="Testcontainers" />
+      <br>Testcontainers
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/lombok.png" width="48" height="48" alt="Lombok" />
+      <br>Lombok
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Rest-Dark.svg" width="48" height="48" alt="REST" />
+      <br>REST
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Tomcat-Dark.svg" width="48" height="48" alt="Tomcat" />
+      <br>Tomcat
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/http-Dark.svg" width="48" height="48" alt="HTTP" />
+      <br>HTTP
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/ci-cd-Dark.svg" width="48" height="48" alt="CI/CD" />
+      <br>CI/CD
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Postman.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/MasStruct-Dark.svg" width="48" height="48" alt="MapStruct" />
+      <br>MapStruct
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/GitLab-Dark.svg" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+  </tr>
+</table>
+
 
 
 <!-- ============================================================ -->
