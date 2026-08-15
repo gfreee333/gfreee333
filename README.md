@@ -196,7 +196,6 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/image/contact.png" />
 </div>
-<br><br>
 <div align="center">
   <a href="https://mail.yandex.ru/compose?to=chuhmanovivan2002@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/Yandex-FF3F00?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex" />
