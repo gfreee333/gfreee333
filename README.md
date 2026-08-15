@@ -10,7 +10,7 @@
 <!-- АНИМИРОВАННЫЙ ТЕКСТ                                           -->
 <!-- ============================================================ -->
 
-<div align="center" style="margin: 20px 0; padding: 20px; background: #0d1117; border-radius: 15px; border: 1px solid #30363d;">
+<div align="center"">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=500&color=4493F8&center=true&vCenter=true&width=600&lines=Добро+пожаловать+на+мой+профиль;Чухманов Иван;Java-разработчик;" alt="Typing SVG" style="max-width: 100%;" />
 </div>
 
