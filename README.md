@@ -19,7 +19,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/back_phone1.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Phone_1.svg" />
 </div>
 
 <!-- ============================================================ -->
