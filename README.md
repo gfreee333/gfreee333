@@ -120,27 +120,21 @@
 ## ✉ Мои контакты
 
 <div align="center">
-
   <a href="https://mail.yandex.ru/compose?to=chuhmanovivan2002@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/Yandex-FF3F00?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex" />
   </a>
-
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chuhmanovivan2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
   <a href="https://t.me/chuhmanov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-
   <a href="https://github.com/gfreee333" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://hh.ru/resume/ваш_id_резюме" target="_blank">
     <img src="https://img.shields.io/badge/hh.ru-DE2D2D?style=for-the-badge&logoColor=white" alt="hh.ru" />
   </a>
-
 </div>
 
 <!-- ============================================================ -->
