@@ -47,7 +47,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/back_phone2.svg" />
+    <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/Phone_4.svg" />
 </div>
 
 <!-- ============================================================ -->
