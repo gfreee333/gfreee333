@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gfreee333/gfreee333/main/svg/header_phone.svg" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/gfreee333/gfreee333/main/svg/header_phone.svg" width="100%" />
 </div>
 
 <!-- ============================================================ -->
